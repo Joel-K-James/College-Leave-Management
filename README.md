@@ -1,4 +1,3 @@
-
 The core aim of this application is to provide students with a streamlined way to request leave for urgent academic matters, such as classes and exams. The primary focus is to minimize the administrative workload on college staff.
 
 We proudly present "College Duty Leave" (CDL), a collaborative effort by myself and my talented team members: Juby, Richa, and Riya. CDL represents our mini project, and we're hopeful that it will create a positive impact within the college community.
@@ -32,6 +31,7 @@ Should you want to delve deeper into this project or explore other web developme
 
 # Notification 
 <img width="1036" alt="Screenshot 2023-07-15 202548" src="https://github.com/Joel-K-James/College-Leave-Management/assets/85893912/e7f44140-04cf-4aec-a8d3-a803fb9c0553">
+Basic UI design is done with figma :  https://www.figma.com/file/5VifRx9kFSLubs48VEXqIE/CDL?type=design&mode=design&t=Uqwu6YbMYquiyfhw-1
 
 # Opening a React app from GitHub involves a few steps. Here's a general outline of the process
 # https://youtu.be/i8KuDon82KM?si=YWHv18aDKQ3vir8O
